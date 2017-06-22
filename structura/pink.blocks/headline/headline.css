@@ -1,0 +1,10 @@
+﻿.headline {
+    background-color: pink;
+}
+
+
+
+.headline__header { /* вместо .headline h2 , не допустимо использовать имена тегов */
+    color: pink;
+}
+

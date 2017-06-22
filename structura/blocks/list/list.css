@@ -1,0 +1,13 @@
+﻿.list { /* вместо .content ul */
+    margin: 0;
+    padding: 0;
+}
+
+.list__item { /* вместо .content ul li */
+    margin: 20px 0;
+    padding: 30px;
+    border-left: 5px solid rgba(0,0,0,.08);
+    background-color: rgba(0,0,0,.08);
+    list-style-type: none;
+    font-size: 16px;
+}

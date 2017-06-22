@@ -1,0 +1,10 @@
+﻿.link { /* вместо а*/
+    color: #44b;
+    text-decoration: none;
+    transition: color .15s ease-out;
+}
+
+
+    .link:hover { /* вместо а:hover*/
+        color: #e00;
+    }

@@ -1,0 +1,15 @@
+﻿.button {
+    padding: 10px;
+    border: 2px solid #fd5;
+    border-radius: 9px;
+    background-color: white;
+    font-size: 18px;
+}
+
+.button_view-action {
+    padding: 6px 10px;
+    border: 0px;
+    border-radius: 6px;
+    background-color: #fd5;
+    font-size: 14px;
+}
